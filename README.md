@@ -60,8 +60,6 @@ Explicar.
 
 ## Resolvendo Problemas :exclamation:
 
-## Resolvendo Problemas :exclamation:
-
 Me conte [aqui](https://github.com/MGustav0/desafio-gostack-fundamentos-reactjs/issues).
 
 ## Tarefas em aberto

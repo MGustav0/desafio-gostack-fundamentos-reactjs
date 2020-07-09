@@ -1,4 +1,4 @@
-# Desafio Projeto GoFinances
+# Desafio 07 Projeto GoFinances
 
 ![Badge](https://img.shields.io/badge/Bootcamp%20Rocketseat-ReactJS-blueviolet) ![Badge](https://img.shields.io/badge/types-Flow%20%7C%20TypeScript-blue)
 
@@ -6,7 +6,7 @@
 
 ## Descrição do projeto
 
-Nesse desafio, continuarei desenvolvendo a aplicação de gestão de transações, a GoFinances. Agora irei praticar o que aprendi até agora no React.js junto com TypeScript, utilizando rotas e envio de arquivos por formulário.
+[Nesse desafio](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-reactjs#template-da-aplica%C3%A7%C3%A3o), continuarei desenvolvendo a aplicação de gestão de transações, a GoFinances, em sua parte front-end web. Agora irei praticar o que aprendi até agora no React.js junto com TypeScript, utilizando rotas e envio de arquivos por formulário.
 
 ## Funcionalidades
 
@@ -25,6 +25,8 @@ Nesse desafio, continuarei desenvolvendo a aplicação de gestão de transaçõe
 <img src="inserirLink" width="800" heigth="600" />
 
 ## Pré-requisitos
+
+Será necessário o [back-end](https://github.com/MGustav0/desafio-gostack-database-upload) rodando com o banco de dados ativo.
 
 :warning: [Node](https://nodejs.org/en/download/)
 :warning: [Yarn](https://yarnpkg.com/getting-started/install)

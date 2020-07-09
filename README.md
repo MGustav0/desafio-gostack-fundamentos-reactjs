@@ -8,6 +8,11 @@
 
 [Nesse desafio](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-reactjs#template-da-aplica%C3%A7%C3%A3o), continuarei desenvolvendo a aplicação de gestão de transações, a GoFinances, em sua parte front-end web. Agora irei praticar o que aprendi até agora no React.js junto com TypeScript, utilizando rotas e envio de arquivos por formulário.
 
+## Linguagens, dependencias e libs utilizadas :books:
+
+- [ReactJS](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+
 ## Funcionalidades
 
 :heavy_check_mark: Funcionalidade 1
@@ -18,11 +23,9 @@
 
 :heavy_check_mark: Funcionalidade 4
 
-## Layout da Aplicação :dash:
+## Casos de Uso
 
-**Dashboard**
-
-<img src="inserirLink" width="800" heigth="600" />
+Descrever.
 
 ## Pré-requisitos
 
@@ -30,6 +33,12 @@ Será necessário o [back-end](https://github.com/MGustav0/desafio-gostack-datab
 
 :warning: [Node](https://nodejs.org/en/download/)
 :warning: [Yarn](https://yarnpkg.com/getting-started/install)
+:warning: [Docker](https://www.docker.com/products/docker-desktop)
+:warning: [PostgreSQL Docker](https://hub.docker.com/_/postgres)
+
+## Iniciando banco de dados
+
+Faça como explicado no [README.md do projeto back-end](https://github.com/MGustav0/desafio-gostack-database-upload).
 
 ## Como rodar a aplicação :arrow_forward:
 
@@ -47,22 +56,11 @@ Será necessário o [back-end](https://github.com/MGustav0/desafio-gostack-datab
 yarn test
 ```
 
-## Casos de Uso
+## Layout da Aplicação :dash:
 
-Descrever.
+**Dashboard**
 
-## Iniciando/Configurando banco de dados
-
-Explicar.
-
-## Linguagens, dependencias e libs utilizadas :books:
-
-- [ReactJS](https://pt-br.reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-
-## Resolvendo Problemas :exclamation:
-
-Me conte [aqui](https://github.com/MGustav0/desafio-gostack-fundamentos-reactjs/issues).
+<img src="inserirLink" width="800" heigth="600" />
 
 ## Tarefas em aberto
 
@@ -73,6 +71,10 @@ Me conte [aqui](https://github.com/MGustav0/desafio-gostack-fundamentos-reactjs/
 :memo: Desenvolver as Funcionalidades da aplicação
 
 :memo: Testar as Funcionalidades da aplicação
+
+## Resolvendo Problemas :exclamation:
+
+Me conte [aqui](https://github.com/MGustav0/desafio-gostack-fundamentos-reactjs/issues).
 
 ## Licença
 

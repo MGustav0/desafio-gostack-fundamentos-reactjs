@@ -2,7 +2,7 @@
 
 ![Badge](https://img.shields.io/badge/Bootcamp%20Rocketseat-ReactJS-blueviolet) ![Badge](https://img.shields.io/badge/types-Flow%20%7C%20TypeScript-blue)
 
-> Status do Projeto: :warning: Em desenvolvimento
+> Status do Projeto: :heavy_check_mark: Finalizado
 
 ## Descrição do projeto
 
@@ -15,17 +15,13 @@
 
 ## Funcionalidades
 
-:heavy_check_mark: Funcionalidade 1
+:heavy_check_mark: Receber e listar o balanço das transações da API.
 
-:heavy_check_mark: Funcionalidade 2
+:heavy_check_mark: Receber e listar transações da API.
 
-:heavy_check_mark: Funcionalidade 3
+:heavy_check_mark: Aceitar e enviar somente arquivos do tipo CSV para a API.
 
-:heavy_check_mark: Funcionalidade 4
-
-## Casos de Uso
-
-Descrever.
+:heavy_check_mark: Exibir dados do arquivo antes de enviar.
 
 ## Pré-requisitos
 
@@ -61,16 +57,6 @@ yarn test
 **Dashboard**
 
 <img src="inserirLink" width="800" heigth="600" />
-
-## Tarefas em aberto
-
-:memo: Preparar o backend
-
-:memo: Criar Layout da aplicação
-
-:memo: Desenvolver as Funcionalidades da aplicação
-
-:memo: Testar as Funcionalidades da aplicação
 
 ## Resolvendo Problemas :exclamation:
 

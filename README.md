@@ -56,7 +56,8 @@ yarn test
 
 **Dashboard**
 
-<img src="inserirLink" width="800" heigth="600" />
+<img src="https://github.com/MGustav0/desafio-gostack-fundamentos-reactjs/blob/master/extras/screens/GoFinances_-_Dashboard.png" width="800" heigth="600" />
+<img src="https://github.com/MGustav0/desafio-gostack-fundamentos-reactjs/blob/master/extras/screens/GoFinances_-_Import.png" width="800" heigth="600" />
 
 ## Resolvendo Problemas :exclamation:
 
